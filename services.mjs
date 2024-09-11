@@ -1,5 +1,7 @@
 import { readFile } from "fs/promises";
+import { url } from "inspector";
 import moment from "moment-timezone";
+import axios from "axios";
 
 export async function loadJSON() {
   try {
@@ -79,6 +81,22 @@ export async function getRoteiro(payloadModificado) {
     .filter(
       (t) => t.inicio_timestamp <= timestamp && t.fim_timestamp >= timestamp
     );
+
+  for (let f of filter) {
+    const data = {};
+    data[f.prefixo] = f;
+
+    const config = {
+      url: "https://igor-e1982-default-rtdb.firebaseio.com/telemetria.json",
+      method: "patch",
+      data,
+    };
+    try {
+      await axios(config);
+    } catch (e) {
+      console.log(e);
+    }
+  }
 
   return filter;
 }
