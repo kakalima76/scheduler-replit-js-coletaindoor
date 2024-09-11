@@ -1,0 +1,6773 @@
+[
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D00",
+      "turno": 1,
+      "placa": "LUH8A51",
+      "prefixo": "M101",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D01",
+      "turno": 1,
+      "placa": "LUH8A51",
+      "prefixo": "M101",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D04",
+      "turno": 1,
+      "placa": "LUH8A50",
+      "prefixo": "M110",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D05",
+      "turno": 1,
+      "placa": "LUH8A50",
+      "prefixo": "M110",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D06",
+      "turno": 1,
+      "placa": "LUJ8A94",
+      "prefixo": "M104",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D07",
+      "turno": 1,
+      "placa": "LUJ8A94",
+      "prefixo": "M104",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D08",
+      "turno": 2,
+      "placa": "LMX1D11",
+      "prefixo": "M107",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D09",
+      "turno": 2,
+      "placa": "LMX1D11",
+      "prefixo": "M107",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D10",
+      "turno": 2,
+      "placa": "LUJ8A94",
+      "prefixo": "M104",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D11",
+      "turno": 2,
+      "placa": "LUJ8A94",
+      "prefixo": "M104",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D12",
+      "turno": 2,
+      "placa": "LMX2I43",
+      "prefixo": "M103",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D13",
+      "turno": 2,
+      "placa": "LMX2I43",
+      "prefixo": "M103",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D14",
+      "turno": 1,
+      "placa": "LMX1D11",
+      "prefixo": "M107",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D15",
+      "turno": 1,
+      "placa": "LMX1D11",
+      "prefixo": "M107",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D16",
+      "turno": 1,
+      "placa": "LUH8A52",
+      "prefixo": "M113",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D17",
+      "turno": 1,
+      "placa": "LUH8A52",
+      "prefixo": "M113",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D18",
+      "turno": 1,
+      "placa": "LMX2J14",
+      "prefixo": "M106",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D19",
+      "turno": 1,
+      "placa": "LMX2J14",
+      "prefixo": "M106",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D20",
+      "turno": 1,
+      "placa": "LMX2I43",
+      "prefixo": "M103",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D21",
+      "turno": 1,
+      "placa": "LMX2I43",
+      "prefixo": "M103",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D22",
+      "turno": 1,
+      "placa": "LMX8A76",
+      "prefixo": "M136",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D23",
+      "turno": 1,
+      "placa": "LMX8A76",
+      "prefixo": "M136",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D24",
+      "turno": 2,
+      "placa": "LUH8A52",
+      "prefixo": "M113",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D25",
+      "turno": 2,
+      "placa": "LUH8A52",
+      "prefixo": "M113",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D26",
+      "turno": 1,
+      "placa": "LMX8A73",
+      "prefixo": "M137",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D27",
+      "turno": 1,
+      "placa": "LMX8A73",
+      "prefixo": "M137",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D28",
+      "turno": 1,
+      "placa": "LMX1D09",
+      "prefixo": "M116",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D29",
+      "turno": 1,
+      "placa": "LMX1D09",
+      "prefixo": "M116",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D30",
+      "turno": 1,
+      "placa": "LUD8B43",
+      "prefixo": "M118",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D31",
+      "turno": 1,
+      "placa": "LUD8B43",
+      "prefixo": "M118",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D32",
+      "turno": 1,
+      "placa": "LUD8B42",
+      "prefixo": "M120",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D33",
+      "turno": 1,
+      "placa": "LUD8B42",
+      "prefixo": "M120",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D34",
+      "turno": 1,
+      "placa": "LTS5J24",
+      "prefixo": "M117",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D35",
+      "turno": 1,
+      "placa": "LTS5J24",
+      "prefixo": "M117",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D36",
+      "turno": 2,
+      "placa": "LMX8A76",
+      "prefixo": "M136",
+      "dias": "1,3,5",
+      "inicio": "16:00:00",
+      "fim": "00:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D37",
+      "turno": 2,
+      "placa": "LMX8A76",
+      "prefixo": "M136",
+      "dias": "2,4,6",
+      "inicio": "16:00:00",
+      "fim": "00:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D38",
+      "turno": 2,
+      "placa": "LTS9A89",
+      "prefixo": "M139",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D39",
+      "turno": 2,
+      "placa": "LTS9A89",
+      "prefixo": "M139",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D40",
+      "turno": 2,
+      "placa": "LUH8A53",
+      "prefixo": "M112",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D41",
+      "turno": 2,
+      "placa": "LTS5J24",
+      "prefixo": "M117",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D42",
+      "turno": 2,
+      "placa": "LTS5J24",
+      "prefixo": "M117",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D43",
+      "turno": 2,
+      "placa": "LUD8B42",
+      "prefixo": "M120",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D44",
+      "turno": 2,
+      "placa": "LUD8B43",
+      "prefixo": "M118",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D45",
+      "turno": 2,
+      "placa": "LUD8B43",
+      "prefixo": "M118",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D46",
+      "turno": 2,
+      "placa": "LUD8B42",
+      "prefixo": "M120",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D47",
+      "turno": 2,
+      "placa": "LUH8A53",
+      "prefixo": "M112",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D48",
+      "turno": 2,
+      "placa": "LMX1D09",
+      "prefixo": "M116",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16F",
+      "roteiro": "16D49",
+      "turno": 2,
+      "placa": "LMX1D09",
+      "prefixo": "M116",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D00",
+      "turno": 1,
+      "placa": "LUD8B41",
+      "prefixo": "M121",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D01",
+      "turno": 1,
+      "placa": "LUD8B41",
+      "prefixo": "M121",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D02",
+      "turno": 1,
+      "placa": "LUD8B40",
+      "prefixo": "M123",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D03",
+      "turno": 1,
+      "placa": "LUD8B40",
+      "prefixo": "M123",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D04",
+      "turno": 1,
+      "placa": "LTT8B27",
+      "prefixo": "M122",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D05",
+      "turno": 1,
+      "placa": "LTT8B27",
+      "prefixo": "M122",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D06",
+      "turno": 1,
+      "placa": "LMX8A46",
+      "prefixo": "M125",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D07",
+      "turno": 1,
+      "placa": "LMX8A46",
+      "prefixo": "M125",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D08",
+      "turno": 1,
+      "placa": "LUH8A55",
+      "prefixo": "M111",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D09",
+      "turno": 1,
+      "placa": "LUH8A55",
+      "prefixo": "M111",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D10",
+      "turno": 1,
+      "placa": "LMX2J17",
+      "prefixo": "M105",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D11",
+      "turno": 1,
+      "placa": "LMX2J17",
+      "prefixo": "M105",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D12",
+      "turno": 1,
+      "placa": "LMX8A44",
+      "prefixo": "M124",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D13",
+      "turno": 1,
+      "placa": "LMX8A44",
+      "prefixo": "M124",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D14",
+      "turno": 1,
+      "placa": "LTS5J25",
+      "prefixo": "M108",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D15",
+      "turno": 1,
+      "placa": "LTS5J25",
+      "prefixo": "M108",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D16",
+      "turno": 2,
+      "placa": "LUD8B40",
+      "prefixo": "M123",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D17",
+      "turno": 2,
+      "placa": "LUD8B40",
+      "prefixo": "M123",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D18",
+      "turno": 2,
+      "placa": "LMX8A46",
+      "prefixo": "M125",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D19",
+      "turno": 2,
+      "placa": "LMX8A46",
+      "prefixo": "M125",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D20",
+      "turno": 2,
+      "placa": "LMX8A44",
+      "prefixo": "M124",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D21",
+      "turno": 2,
+      "placa": "LMX8A44",
+      "prefixo": "M124",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D22",
+      "turno": 2,
+      "placa": "LUD8B41",
+      "prefixo": "M121",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D23",
+      "turno": 2,
+      "placa": "LUD8B41",
+      "prefixo": "M121",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D24",
+      "turno": 2,
+      "placa": "LUH8A50",
+      "prefixo": "M110",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D25",
+      "turno": 2,
+      "placa": "LUH8A50",
+      "prefixo": "M110",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D26",
+      "turno": 2,
+      "placa": "LMX2J17",
+      "prefixo": "M105",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D27",
+      "turno": 2,
+      "placa": "LMX2J17",
+      "prefixo": "M105",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D28",
+      "turno": 2,
+      "placa": "LTT8B27",
+      "prefixo": "M122",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D29",
+      "turno": 2,
+      "placa": "LTT8B27",
+      "prefixo": "M122",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D30",
+      "turno": 2,
+      "placa": "LUH8A55",
+      "prefixo": "M111",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D31",
+      "turno": 2,
+      "placa": "LUH8A55",
+      "prefixo": "M111",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D32",
+      "turno": 1,
+      "placa": "LUK1E49",
+      "prefixo": "M135",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG16J",
+      "roteiro": "42D33",
+      "turno": 1,
+      "placa": "LUK1E49",
+      "prefixo": "M135",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D00",
+      "turno": 1,
+      "placa": "LTS9A88",
+      "prefixo": "M140",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D01",
+      "turno": 1,
+      "placa": "LTS9A88",
+      "prefixo": "M140",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D02",
+      "turno": 1,
+      "placa": "LUH8B39",
+      "prefixo": "M127",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D03",
+      "turno": 1,
+      "placa": "LUH8B39",
+      "prefixo": "M127",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D04",
+      "turno": 1,
+      "placa": "LMX8A49",
+      "prefixo": "M128",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D05",
+      "turno": 1,
+      "placa": "LMX8A49",
+      "prefixo": "M128",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D06",
+      "turno": 2,
+      "placa": "LMY5F87",
+      "prefixo": "M138",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D07",
+      "turno": 2,
+      "placa": "LMY5F87",
+      "prefixo": "M138",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D08",
+      "turno": 2,
+      "placa": "LUH8B39",
+      "prefixo": "M127",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D09",
+      "turno": 2,
+      "placa": "LUH8B39",
+      "prefixo": "M127",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D10",
+      "turno": 2,
+      "placa": "LUN8F45",
+      "prefixo": "M134",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D11",
+      "turno": 2,
+      "placa": "LMX8A49",
+      "prefixo": "M128",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D12",
+      "turno": 2,
+      "placa": "LMX8A49",
+      "prefixo": "M128",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D13",
+      "turno": 2,
+      "placa": "LUN8F45",
+      "prefixo": "M134",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D14",
+      "turno": 1,
+      "placa": "LTU1E56",
+      "prefixo": "M129",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D15",
+      "turno": 1,
+      "placa": "LTU1E56",
+      "prefixo": "M129",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D21",
+      "turno": 2,
+      "placa": "LTU1E56",
+      "prefixo": "M129",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D22",
+      "turno": 2,
+      "placa": "LTU1E56",
+      "prefixo": "M129",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D27",
+      "turno": 2,
+      "placa": "LUK1E49",
+      "prefixo": "M135",
+      "dias": 0,
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24B",
+      "roteiro": "24D28",
+      "turno": 2,
+      "placa": "LTS5J25",
+      "prefixo": "M108",
+      "dias": 0,
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D10",
+      "turno": 1,
+      "placa": "LTS9A92",
+      "prefixo": "M131",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D11",
+      "turno": 1,
+      "placa": "LTS9A92",
+      "prefixo": "M131",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D14",
+      "turno": 1,
+      "placa": "LMX8A67",
+      "prefixo": "M132",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D15",
+      "turno": 1,
+      "placa": "LMX8A67",
+      "prefixo": "M132",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D16",
+      "turno": 1,
+      "placa": "LTT9J74",
+      "prefixo": "M130",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D17",
+      "turno": 1,
+      "placa": "LTT9J74",
+      "prefixo": "M130",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D18",
+      "turno": 1,
+      "placa": "LUN8F45",
+      "prefixo": "M134",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D19",
+      "turno": 1,
+      "placa": "LUN8F45",
+      "prefixo": "M134",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D20",
+      "turno": 1,
+      "placa": "LMX8A71",
+      "prefixo": "M133",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D21",
+      "turno": 1,
+      "placa": "LMX8A71",
+      "prefixo": "M133",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D22",
+      "turno": 2,
+      "placa": "LTS9A92",
+      "prefixo": "M131",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D23",
+      "turno": 2,
+      "placa": "LTS9A92",
+      "prefixo": "M131",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D24",
+      "turno": 2,
+      "placa": "LMX8A67",
+      "prefixo": "M132",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D25",
+      "turno": 2,
+      "placa": "LMX8A67",
+      "prefixo": "M132",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D28",
+      "turno": 2,
+      "placa": "LTT9J74",
+      "prefixo": "M130",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "BG24R",
+      "roteiro": "21D29",
+      "turno": 2,
+      "placa": "LTT9J74",
+      "prefixo": "M130",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "LGN",
+      "roteiro": "91D00",
+      "turno": 1,
+      "placa": "LMX1D10",
+      "prefixo": "M119",
+      "dias": "1,3,5",
+      "inicio": "08:00:00",
+      "fim": "16:20:00"
+    },
+    {
+      "gerencia": "ND29A",
+      "roteiro": "70D01",
+      "turno": 1,
+      "placa": "DZL0I90",
+      "prefixo": "Q103",
+      "dias": 0,
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "ND29A",
+      "roteiro": "70D04",
+      "turno": 1,
+      "placa": "LUB8H91",
+      "prefixo": "N120",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "ND29A",
+      "roteiro": "70D05",
+      "turno": 1,
+      "placa": "LUB8H91",
+      "prefixo": "N120",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "ND29A",
+      "roteiro": "70D09",
+      "turno": 1,
+      "placa": "GBY0C76",
+      "prefixo": "Q107",
+      "dias": 0,
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "ND29A",
+      "roteiro": "70D10",
+      "turno": 2,
+      "placa": "DZL0I90",
+      "prefixo": "Q103",
+      "dias": 0,
+      "inicio": "16:00:00",
+      "fim": "00:20:00"
+    },
+    {
+      "gerencia": "ND29A",
+      "roteiro": "70D12",
+      "turno": 2,
+      "placa": "GBY0C76",
+      "prefixo": "Q107",
+      "dias": 0,
+      "inicio": "16:00:00",
+      "fim": "00:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D03",
+      "turno": 1,
+      "placa": "LTT9J67",
+      "prefixo": "H105",
+      "dias": 0,
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D04",
+      "turno": 1,
+      "placa": "LTQ4D00",
+      "prefixo": "J130",
+      "dias": 0,
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D05",
+      "turno": 1,
+      "placa": "LTU9A41",
+      "prefixo": "N115",
+      "dias": 0,
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D06",
+      "turno": 1,
+      "placa": "LTU9A38",
+      "prefixo": "N117",
+      "dias": 0,
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D07",
+      "turno": 1,
+      "placa": "LTQ4D03",
+      "prefixo": "J124",
+      "dias": 0,
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D08",
+      "turno": 1,
+      "placa": "LMX2I39",
+      "prefixo": "N101",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D11",
+      "turno": 1,
+      "placa": "LMY5F75",
+      "prefixo": "H104",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D12",
+      "turno": 1,
+      "placa": "LMY5F75",
+      "prefixo": "H104",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D13",
+      "turno": 2,
+      "placa": "LTU8D87",
+      "prefixo": "N160",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D14",
+      "turno": 2,
+      "placa": "LTU8D87",
+      "prefixo": "N160",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D15",
+      "turno": 2,
+      "placa": "LMY5F75",
+      "prefixo": "H104",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D16",
+      "turno": 2,
+      "placa": "LMY5F75",
+      "prefixo": "H104",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D17",
+      "turno": 2,
+      "placa": "LNH9J13",
+      "prefixo": "N129",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D18",
+      "turno": 2,
+      "placa": "LNH9J13",
+      "prefixo": "N129",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D19",
+      "turno": 2,
+      "placa": "LTT9J67",
+      "prefixo": "H105",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D20",
+      "turno": 2,
+      "placa": "LTT9J67",
+      "prefixo": "H105",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D21",
+      "turno": 2,
+      "placa": "LTU9A39",
+      "prefixo": "N116",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D22",
+      "turno": 2,
+      "placa": "LTU9A39",
+      "prefixo": "N116",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D26",
+      "turno": 1,
+      "placa": "LTU8D87",
+      "prefixo": "N160",
+      "dias": 0,
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D28",
+      "turno": 1,
+      "placa": "LTQ4D08",
+      "prefixo": "H116",
+      "dias": 0,
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG10R",
+      "roteiro": "10D29",
+      "turno": 3,
+      "placa": "LTQ4D08",
+      "prefixo": "H116",
+      "dias": 0,
+      "inicio": "15:20:00",
+      "fim": "23:40:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D01",
+      "turno": 1,
+      "placa": "LTU9A45",
+      "prefixo": "N130",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D02",
+      "turno": 1,
+      "placa": "LTU9A45",
+      "prefixo": "N130",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D03",
+      "turno": 1,
+      "placa": "LNH7A22",
+      "prefixo": "J127",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D04",
+      "turno": 1,
+      "placa": "LNH7A22",
+      "prefixo": "J127",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D05",
+      "turno": 1,
+      "placa": "LMU2F47",
+      "prefixo": "J128",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D06",
+      "turno": 1,
+      "placa": "LMU2F47",
+      "prefixo": "J128",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D07",
+      "turno": 1,
+      "placa": "LTX8G62",
+      "prefixo": "H109",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D08",
+      "turno": 1,
+      "placa": "LTX8G62",
+      "prefixo": "H109",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D09",
+      "turno": 2,
+      "placa": "LUM1D07",
+      "prefixo": "H111",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D10",
+      "turno": 2,
+      "placa": "LTQ6D48",
+      "prefixo": "H121",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D11",
+      "turno": 2,
+      "placa": "LTQ4D11",
+      "prefixo": "H112",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D12",
+      "turno": 2,
+      "placa": "LTQ4D11",
+      "prefixo": "H112",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D13",
+      "turno": 2,
+      "placa": "LTU9A41",
+      "prefixo": "N115",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D14",
+      "turno": 2,
+      "placa": "LTU9A41",
+      "prefixo": "N115",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D15",
+      "turno": 2,
+      "placa": "LTU9A45",
+      "prefixo": "N130",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG11P",
+      "roteiro": "11D16",
+      "turno": 2,
+      "placa": "LTU9A45",
+      "prefixo": "N130",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D01",
+      "turno": 1,
+      "placa": "LMU2F49",
+      "prefixo": "H114",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D02",
+      "turno": 1,
+      "placa": "LMU2F49",
+      "prefixo": "H114",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D03",
+      "turno": 1,
+      "placa": "LNH9J13",
+      "prefixo": "N129",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D04",
+      "turno": 1,
+      "placa": "LNH9J13",
+      "prefixo": "N129",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D05",
+      "turno": 1,
+      "placa": "LTU7D31",
+      "prefixo": "N146",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D06",
+      "turno": 1,
+      "placa": "LTU7D31",
+      "prefixo": "N146",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D07",
+      "turno": 1,
+      "placa": "LUO1F64",
+      "prefixo": "N147",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D08",
+      "turno": 1,
+      "placa": "LUO1F64",
+      "prefixo": "N147",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D09",
+      "turno": 2,
+      "placa": "KZO7B14",
+      "prefixo": "J108",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D10",
+      "turno": 2,
+      "placa": "KZO7B16",
+      "prefixo": "J110",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D11",
+      "turno": 2,
+      "placa": "LTU7D31",
+      "prefixo": "N146",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D12",
+      "turno": 2,
+      "placa": "LTU7D31",
+      "prefixo": "N146",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D13",
+      "turno": 2,
+      "placa": "LNH8A96",
+      "prefixo": "N154",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D14",
+      "turno": 2,
+      "placa": "LNH8A96",
+      "prefixo": "N154",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D16",
+      "turno": 1,
+      "placa": "LMU2F48",
+      "prefixo": "H101",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG12I",
+      "roteiro": "12D21",
+      "turno": 1,
+      "placa": "LMU2F48",
+      "prefixo": "H101",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D01",
+      "turno": 1,
+      "placa": "LTQ4D09",
+      "prefixo": "H119",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D02",
+      "turno": 1,
+      "placa": "LTQ4D09",
+      "prefixo": "H119",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D03",
+      "turno": 1,
+      "placa": "LMZ8E51",
+      "prefixo": "N141",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D04",
+      "turno": 1,
+      "placa": "LMZ8E51",
+      "prefixo": "N141",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D05",
+      "turno": 1,
+      "placa": "LUN8I42",
+      "prefixo": "N145",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D06",
+      "turno": 1,
+      "placa": "LUN8I42",
+      "prefixo": "N145",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D07",
+      "turno": 1,
+      "placa": "LTU7D19",
+      "prefixo": "N137",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D08",
+      "turno": 1,
+      "placa": "LTU7D19",
+      "prefixo": "N137",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D15",
+      "turno": 2,
+      "placa": "LMZ8E51",
+      "prefixo": "N141",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D16",
+      "turno": 2,
+      "placa": "LMZ8E51",
+      "prefixo": "N141",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D17",
+      "turno": 2,
+      "placa": "LTU8D82",
+      "prefixo": "N148",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D18",
+      "turno": 2,
+      "placa": "LTU8D82",
+      "prefixo": "N148",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D19",
+      "turno": 2,
+      "placa": "LUB8H91",
+      "prefixo": "N120",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D20",
+      "turno": 2,
+      "placa": "LUB8H91",
+      "prefixo": "N120",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D21",
+      "turno": 2,
+      "placa": "LTT9J68",
+      "prefixo": "H110",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D22",
+      "turno": 2,
+      "placa": "LTT9J68",
+      "prefixo": "H110",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D23",
+      "turno": 2,
+      "placa": "LTU7D15",
+      "prefixo": "N140",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D24",
+      "turno": 2,
+      "placa": "LTU7D15",
+      "prefixo": "N140",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D25",
+      "turno": 2,
+      "placa": "KZO7B11",
+      "prefixo": "J106",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13M",
+      "roteiro": "13D26",
+      "turno": 2,
+      "placa": "KZO7B11",
+      "prefixo": "J106",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D01",
+      "turno": 1,
+      "placa": "LTU9A39",
+      "prefixo": "N116",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D02",
+      "turno": 1,
+      "placa": "LTQ4D10",
+      "prefixo": "H118",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D03",
+      "turno": 1,
+      "placa": "LTU9A34",
+      "prefixo": "N125",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D04",
+      "turno": 1,
+      "placa": "LTU9A42",
+      "prefixo": "N118",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D05",
+      "turno": 1,
+      "placa": "LTU9A42",
+      "prefixo": "N118",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D06",
+      "turno": 1,
+      "placa": "LTU9A34",
+      "prefixo": "N125",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D07",
+      "turno": 1,
+      "placa": "LTQ4D10",
+      "prefixo": "H118",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D08",
+      "turno": 1,
+      "placa": "LTU9A39",
+      "prefixo": "N116",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D09",
+      "turno": 2,
+      "placa": "LTU9A34",
+      "prefixo": "N125",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D10",
+      "turno": 2,
+      "placa": "LTU9A34",
+      "prefixo": "N125",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D11",
+      "turno": 2,
+      "placa": "LTU9A42",
+      "prefixo": "N118",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D12",
+      "turno": 2,
+      "placa": "KZP9G68",
+      "prefixo": "J115",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D13",
+      "turno": 2,
+      "placa": "RKA0B89",
+      "prefixo": "N132",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D14",
+      "turno": 2,
+      "placa": "RKA0B89",
+      "prefixo": "N132",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D15",
+      "turno": 2,
+      "placa": "LTQ4D10",
+      "prefixo": "H118",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG13P",
+      "roteiro": "56D16",
+      "turno": 2,
+      "placa": "LTQ4D09",
+      "prefixo": "H119",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D03",
+      "turno": 1,
+      "placa": "LMZ8E69",
+      "prefixo": "N135",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D04",
+      "turno": 1,
+      "placa": "LUB8H90",
+      "prefixo": "N128",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D05",
+      "turno": 1,
+      "placa": "LTT9J65",
+      "prefixo": "H107",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D06",
+      "turno": 1,
+      "placa": "LTU9A37",
+      "prefixo": "N122",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D07",
+      "turno": 1,
+      "placa": "LTU9A37",
+      "prefixo": "N122",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D08",
+      "turno": 1,
+      "placa": "LTT9J65",
+      "prefixo": "H107",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D09",
+      "turno": 1,
+      "placa": "LUB8H90",
+      "prefixo": "N128",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D10",
+      "turno": 1,
+      "placa": "LMZ8E69",
+      "prefixo": "N135",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D11",
+      "turno": 1,
+      "placa": "LNH9J12",
+      "prefixo": "N126",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D12",
+      "turno": 1,
+      "placa": "LNH9J12",
+      "prefixo": "N126",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D13",
+      "turno": 1,
+      "placa": "LUD8F12",
+      "prefixo": "N165",
+      "dias": 0,
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D22",
+      "turno": 2,
+      "placa": "LTT9J65",
+      "prefixo": "H107",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D23",
+      "turno": 2,
+      "placa": "LTT9J65",
+      "prefixo": "H107",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D24",
+      "turno": 2,
+      "placa": "LNH9J12",
+      "prefixo": "N126",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D25",
+      "turno": 2,
+      "placa": "LNH9J12",
+      "prefixo": "N126",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D26",
+      "turno": 2,
+      "placa": "LUB8H90",
+      "prefixo": "N128",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D27",
+      "turno": 2,
+      "placa": "LUB8H90",
+      "prefixo": "N128",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D28",
+      "turno": 2,
+      "placa": "LUR8H33",
+      "prefixo": "N156",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D29",
+      "turno": 2,
+      "placa": "LUR8H33",
+      "prefixo": "N156",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D30",
+      "turno": 2,
+      "placa": "LUN8I42",
+      "prefixo": "N145",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D31",
+      "turno": 2,
+      "placa": "LMZ8E69",
+      "prefixo": "N135",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG14I",
+      "roteiro": "14D32",
+      "turno": 2,
+      "placa": "LNH8A97",
+      "prefixo": "N152",
+      "dias": 0,
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D30",
+      "turno": 1,
+      "placa": "LUN8I84",
+      "prefixo": "N162",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D31",
+      "turno": 1,
+      "placa": "LUN8I84",
+      "prefixo": "N162",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D32",
+      "turno": 1,
+      "placa": "LTU8D84",
+      "prefixo": "N159",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D33",
+      "turno": 1,
+      "placa": "LTU8D84",
+      "prefixo": "N159",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D40",
+      "turno": 1,
+      "placa": "LTU8D82",
+      "prefixo": "N148",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D41",
+      "turno": 1,
+      "placa": "LTU8D82",
+      "prefixo": "N148",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D42",
+      "turno": 1,
+      "placa": "LTU7D16",
+      "prefixo": "N142",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D43",
+      "turno": 1,
+      "placa": "LTU7D16",
+      "prefixo": "N142",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D44",
+      "turno": 1,
+      "placa": "LUA1D90",
+      "prefixo": "N108",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D45",
+      "turno": 1,
+      "placa": "LUA1D90",
+      "prefixo": "N108",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D46",
+      "turno": 2,
+      "placa": "LMU2F51",
+      "prefixo": "H117",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D47",
+      "turno": 2,
+      "placa": "LMU2F51",
+      "prefixo": "H117",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D48",
+      "turno": 2,
+      "placa": "LTU9A48",
+      "prefixo": "N127",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D49",
+      "turno": 2,
+      "placa": "LTU9A48",
+      "prefixo": "N127",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D50",
+      "turno": 2,
+      "placa": "LTU7D16",
+      "prefixo": "N142",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D51",
+      "turno": 2,
+      "placa": "LTU7D16",
+      "prefixo": "N142",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D52",
+      "turno": 2,
+      "placa": "LUN8I84",
+      "prefixo": "N162",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D53",
+      "turno": 2,
+      "placa": "LUN8I84",
+      "prefixo": "N162",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D54",
+      "turno": 2,
+      "placa": "LUA1D90",
+      "prefixo": "N108",
+      "dias": "1,3,5",
+      "inicio": "16:00:00",
+      "fim": "00:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D55",
+      "turno": 2,
+      "placa": "LUA1D90",
+      "prefixo": "N108",
+      "dias": "2,4,6",
+      "inicio": "16:00:00",
+      "fim": "00:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D56",
+      "turno": 2,
+      "placa": "LTU9A55",
+      "prefixo": "N161",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG15H",
+      "roteiro": "55D57",
+      "turno": 2,
+      "placa": "LTU9A55",
+      "prefixo": "N161",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D00",
+      "turno": 1,
+      "placa": "LTU9A36",
+      "prefixo": "N123",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D01",
+      "turno": 1,
+      "placa": "LTU9A36",
+      "prefixo": "N123",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D02",
+      "turno": 1,
+      "placa": "LTU8D83",
+      "prefixo": "N150",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D03",
+      "turno": 1,
+      "placa": "LTU8D83",
+      "prefixo": "N150",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D04",
+      "turno": 1,
+      "placa": "LUD8F10",
+      "prefixo": "N164",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D05",
+      "turno": 1,
+      "placa": "LUD8F10",
+      "prefixo": "N164",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D06",
+      "turno": 1,
+      "placa": "LTU9A63",
+      "prefixo": "N113",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D07",
+      "turno": 1,
+      "placa": "LTU9A63",
+      "prefixo": "N113",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D08",
+      "turno": 1,
+      "placa": "LTU9A40",
+      "prefixo": "N119",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D09",
+      "turno": 1,
+      "placa": "LTU9A40",
+      "prefixo": "N119",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D10",
+      "turno": 2,
+      "placa": "LMU7B12",
+      "prefixo": "H102",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D11",
+      "turno": 2,
+      "placa": "LMU7B12",
+      "prefixo": "H102",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D12",
+      "turno": 2,
+      "placa": "LTU9A40",
+      "prefixo": "N119",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D13",
+      "turno": 2,
+      "placa": "LTU9A40",
+      "prefixo": "N119",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D14",
+      "turno": 2,
+      "placa": "LTU9A36",
+      "prefixo": "N123",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D15",
+      "turno": 2,
+      "placa": "LTU9A36",
+      "prefixo": "N123",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D16",
+      "turno": 2,
+      "placa": "LTU9A63",
+      "prefixo": "N113",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D17",
+      "turno": 2,
+      "placa": "LTU9A63",
+      "prefixo": "N113",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D18",
+      "turno": 2,
+      "placa": "LUD8F10",
+      "prefixo": "N164",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG15M",
+      "roteiro": "15D19",
+      "turno": 2,
+      "placa": "LUD8F10",
+      "prefixo": "N164",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D01",
+      "turno": 1,
+      "placa": "LTQ4D01",
+      "prefixo": "J126",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D02",
+      "turno": 1,
+      "placa": "LTQ4D01",
+      "prefixo": "J126",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D03",
+      "turno": 1,
+      "placa": "LTU7D15",
+      "prefixo": "N140",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D04",
+      "turno": 1,
+      "placa": "LTU7D15",
+      "prefixo": "N140",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D05",
+      "turno": 1,
+      "placa": "LTQ4D02",
+      "prefixo": "J125",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D06",
+      "turno": 1,
+      "placa": "LTQ4D02",
+      "prefixo": "J125",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D07",
+      "turno": 1,
+      "placa": "KZP9G69",
+      "prefixo": "J114",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D08",
+      "turno": 1,
+      "placa": "KZP9G69",
+      "prefixo": "J114",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D09",
+      "turno": 1,
+      "placa": "RKA0B85",
+      "prefixo": "N133",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D10",
+      "turno": 1,
+      "placa": "RKA0B85",
+      "prefixo": "N133",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D13",
+      "turno": 2,
+      "placa": "KZP9G68",
+      "prefixo": "J115",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D14",
+      "turno": 2,
+      "placa": "LUJ7F71",
+      "prefixo": "H120",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D15",
+      "turno": 2,
+      "placa": "LUJ7F71",
+      "prefixo": "H120",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D16",
+      "turno": 2,
+      "placa": "KZO7B12",
+      "prefixo": "J111",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D17",
+      "turno": 2,
+      "placa": "KZP9G69",
+      "prefixo": "J114",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D18",
+      "turno": 2,
+      "placa": "LUD8F12",
+      "prefixo": "N165",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D19",
+      "turno": 2,
+      "placa": "KZO7B12",
+      "prefixo": "J111",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D20",
+      "turno": 2,
+      "placa": "KZO7B39",
+      "prefixo": "J121",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D21",
+      "turno": 2,
+      "placa": "LUD8F12",
+      "prefixo": "N165",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG20G",
+      "roteiro": "20D22",
+      "turno": 2,
+      "placa": "KZP9G69",
+      "prefixo": "J114",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D01",
+      "turno": 1,
+      "placa": "LTU8D86",
+      "prefixo": "N153",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D02",
+      "turno": 1,
+      "placa": "LTU8D48",
+      "prefixo": "N139",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D03",
+      "turno": 1,
+      "placa": "LMZ8E67",
+      "prefixo": "N136",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D04",
+      "turno": 1,
+      "placa": "LMZ8E67",
+      "prefixo": "N136",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D05",
+      "turno": 1,
+      "placa": "LTU8D48",
+      "prefixo": "N139",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D06",
+      "turno": 1,
+      "placa": "LTU9A43",
+      "prefixo": "N114",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D07",
+      "turno": 2,
+      "placa": "LMZ8E67",
+      "prefixo": "N136",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D08",
+      "turno": 2,
+      "placa": "LTU8D86",
+      "prefixo": "N153",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D09",
+      "turno": 2,
+      "placa": "LTU9A43",
+      "prefixo": "N114",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D10",
+      "turno": 2,
+      "placa": "LTU8D48",
+      "prefixo": "N139",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D11",
+      "turno": 2,
+      "placa": "LTU8D48",
+      "prefixo": "N139",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D12",
+      "turno": 2,
+      "placa": "LTU9A43",
+      "prefixo": "N114",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D13",
+      "turno": 2,
+      "placa": "LTU8D86",
+      "prefixo": "N153",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D14",
+      "turno": 2,
+      "placa": "LMZ8E67",
+      "prefixo": "N136",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D15",
+      "turno": 1,
+      "placa": "LTU9A43",
+      "prefixo": "N114",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG22A",
+      "roteiro": "22D16",
+      "turno": 1,
+      "placa": "LTU8D86",
+      "prefixo": "N153",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D01",
+      "turno": 1,
+      "placa": "LTU9A35",
+      "prefixo": "N124",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D02",
+      "turno": 1,
+      "placa": "LTU9A35",
+      "prefixo": "N124",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D03",
+      "turno": 1,
+      "placa": "LUB8H92",
+      "prefixo": "N121",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D04",
+      "turno": 1,
+      "placa": "LNH9J14",
+      "prefixo": "N149",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D05",
+      "turno": 1,
+      "placa": "LNH9J14",
+      "prefixo": "N149",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D06",
+      "turno": 1,
+      "placa": "LUB8H92",
+      "prefixo": "N121",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D07",
+      "turno": 1,
+      "placa": "LTU9A44",
+      "prefixo": "N131",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D08",
+      "turno": 1,
+      "placa": "LTU9A44",
+      "prefixo": "N131",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D09",
+      "turno": 2,
+      "placa": "LNH9J14",
+      "prefixo": "N149",
+      "dias": "2,4,6",
+      "inicio": "16:00:00",
+      "fim": "00:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D10",
+      "turno": 2,
+      "placa": "LTU9A35",
+      "prefixo": "N124",
+      "dias": "1,3,5",
+      "inicio": "16:00:00",
+      "fim": "00:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D11",
+      "turno": 2,
+      "placa": "LUB8H92",
+      "prefixo": "N121",
+      "dias": "2,4,6",
+      "inicio": "16:00:00",
+      "fim": "00:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D12",
+      "turno": 2,
+      "placa": "LUB8H92",
+      "prefixo": "N121",
+      "dias": "1,3,5",
+      "inicio": "16:00:00",
+      "fim": "00:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D13",
+      "turno": 2,
+      "placa": "LTU9A35",
+      "prefixo": "N124",
+      "dias": "2,4,6",
+      "inicio": "16:00:00",
+      "fim": "00:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D14",
+      "turno": 2,
+      "placa": "LTU9A44",
+      "prefixo": "N131",
+      "dias": "1,3,5",
+      "inicio": "16:00:00",
+      "fim": "00:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D15",
+      "turno": 2,
+      "placa": "LTU9A44",
+      "prefixo": "N131",
+      "dias": "2,4,6",
+      "inicio": "16:00:00",
+      "fim": "00:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D16",
+      "turno": 2,
+      "placa": "LNH9J14",
+      "prefixo": "N149",
+      "dias": "1,3,5",
+      "inicio": "16:00:00",
+      "fim": "00:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D17",
+      "turno": 1,
+      "placa": "LMZ8F08",
+      "prefixo": "N143",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D19",
+      "turno": 1,
+      "placa": "LTU8D81",
+      "prefixo": "N158",
+      "dias": 0,
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "NG25F",
+      "roteiro": "25D20",
+      "turno": 3,
+      "placa": "LTU8D81",
+      "prefixo": "N158",
+      "dias": 0,
+      "inicio": "15:00:00",
+      "fim": "23:20:00"
+    },
+    {
+      "gerencia": "NG31V",
+      "roteiro": "31D01",
+      "turno": 1,
+      "placa": "LMZ8E62",
+      "prefixo": "N138",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG31V",
+      "roteiro": "31D02",
+      "turno": 1,
+      "placa": "LTY1F82",
+      "prefixo": "N112",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG31V",
+      "roteiro": "31D03",
+      "turno": 1,
+      "placa": "LTY1F82",
+      "prefixo": "N112",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG31V",
+      "roteiro": "31D04",
+      "turno": 1,
+      "placa": "LMU2F50",
+      "prefixo": "H115",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG31V",
+      "roteiro": "31D05",
+      "turno": 1,
+      "placa": "LMU2F50",
+      "prefixo": "H115",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG31V",
+      "roteiro": "31D06",
+      "turno": 1,
+      "placa": "LMZ8E62",
+      "prefixo": "N138",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "NG31V",
+      "roteiro": "31D07",
+      "turno": 2,
+      "placa": "LMZ8E62",
+      "prefixo": "N138",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG31V",
+      "roteiro": "31D08",
+      "turno": 2,
+      "placa": "LMZ8E62",
+      "prefixo": "N138",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG31V",
+      "roteiro": "31D09",
+      "turno": 2,
+      "placa": "LMU2F50",
+      "prefixo": "H115",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG31V",
+      "roteiro": "31D10",
+      "turno": 2,
+      "placa": "LMU2F50",
+      "prefixo": "H115",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG31V",
+      "roteiro": "31D11",
+      "turno": 2,
+      "placa": "LTY1F82",
+      "prefixo": "N112",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "NG31V",
+      "roteiro": "31D12",
+      "turno": 2,
+      "placa": "LTY1F82",
+      "prefixo": "N112",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D01",
+      "turno": 1,
+      "placa": "SRD8F65",
+      "prefixo": "G176",
+      "dias": 0,
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D02",
+      "turno": 1,
+      "placa": "SRD8F58",
+      "prefixo": "G173",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D03",
+      "turno": 1,
+      "placa": "SRD8F58",
+      "prefixo": "G173",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D04",
+      "turno": 1,
+      "placa": "SRC3G61",
+      "prefixo": "G164",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D05",
+      "turno": 1,
+      "placa": "SRC3G61",
+      "prefixo": "G164",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D06",
+      "turno": 1,
+      "placa": "SRI8C41",
+      "prefixo": "G171",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D07",
+      "turno": 1,
+      "placa": "SRI8C41",
+      "prefixo": "G171",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D08",
+      "turno": 1,
+      "placa": "SRG8I67",
+      "prefixo": "G174",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D09",
+      "turno": 1,
+      "placa": "SRG8I67",
+      "prefixo": "G174",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D10",
+      "turno": 1,
+      "placa": "SRI6H60",
+      "prefixo": "G179",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D11",
+      "turno": 1,
+      "placa": "SRI6H60",
+      "prefixo": "G179",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D12",
+      "turno": 1,
+      "placa": "SRJ6H69",
+      "prefixo": "G178",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D13",
+      "turno": 1,
+      "placa": "SRJ6H69",
+      "prefixo": "G178",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D14",
+      "turno": 1,
+      "placa": "SRD7I86",
+      "prefixo": "G172",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D15",
+      "turno": 1,
+      "placa": "SRD7I86",
+      "prefixo": "G172",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D16",
+      "turno": 1,
+      "placa": "SRU6D27",
+      "prefixo": "G166",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D17",
+      "turno": 1,
+      "placa": "SRG7C37",
+      "prefixo": "G180",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D18",
+      "turno": 1,
+      "placa": "SRG7C37",
+      "prefixo": "G180",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D19",
+      "turno": 1,
+      "placa": "SRU6D27",
+      "prefixo": "G166",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D20",
+      "turno": 1,
+      "placa": "SRD8F62",
+      "prefixo": "G175",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D21",
+      "turno": 1,
+      "placa": "SRD8F62",
+      "prefixo": "G175",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D22",
+      "turno": 1,
+      "placa": "SRJ7A01",
+      "prefixo": "G165",
+      "dias": 0,
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D23",
+      "turno": 2,
+      "placa": "SRI8C41",
+      "prefixo": "G171",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D24",
+      "turno": 2,
+      "placa": "SRI8C41",
+      "prefixo": "G171",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D25",
+      "turno": 2,
+      "placa": "SRD8F58",
+      "prefixo": "G173",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D26",
+      "turno": 2,
+      "placa": "SRD8F58",
+      "prefixo": "G173",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D27",
+      "turno": 2,
+      "placa": "SRD8F62",
+      "prefixo": "G175",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D28",
+      "turno": 2,
+      "placa": "SRD8F62",
+      "prefixo": "G175",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D29",
+      "turno": 2,
+      "placa": "SRG8I67",
+      "prefixo": "G174",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D30",
+      "turno": 2,
+      "placa": "SRD7I86",
+      "prefixo": "G172",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D31",
+      "turno": 2,
+      "placa": "SRD7I86",
+      "prefixo": "G172",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D32",
+      "turno": 2,
+      "placa": "SRG8I67",
+      "prefixo": "G174",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D33",
+      "turno": 2,
+      "placa": "SRJ7A01",
+      "prefixo": "G165",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D34",
+      "turno": 2,
+      "placa": "SRJ7A01",
+      "prefixo": "G165",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D35",
+      "turno": 2,
+      "placa": "SRG7F01",
+      "prefixo": "G163",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D36",
+      "turno": 2,
+      "placa": "SRG7F01",
+      "prefixo": "G163",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D37",
+      "turno": 2,
+      "placa": "SRC3G61",
+      "prefixo": "G164",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG17B",
+      "roteiro": "17D38",
+      "turno": 2,
+      "placa": "SRC3G61",
+      "prefixo": "G164",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D01",
+      "turno": 1,
+      "placa": "RJE1D81",
+      "prefixo": "R118",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D02",
+      "turno": 1,
+      "placa": "RJE1D81",
+      "prefixo": "R118",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D03",
+      "turno": 1,
+      "placa": "RKT1J29",
+      "prefixo": "R144",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D04",
+      "turno": 1,
+      "placa": "RKT1J29",
+      "prefixo": "R144",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D05",
+      "turno": 1,
+      "placa": "RKT1J12",
+      "prefixo": "R133",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D06",
+      "turno": 1,
+      "placa": "RKT1J12",
+      "prefixo": "R133",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D07",
+      "turno": 1,
+      "placa": "RKC1G45",
+      "prefixo": "R122",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D08",
+      "turno": 1,
+      "placa": "RKC1G45",
+      "prefixo": "R122",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D09",
+      "turno": 1,
+      "placa": "RKS1I98",
+      "prefixo": "R134",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D10",
+      "turno": 1,
+      "placa": "RKS1I98",
+      "prefixo": "R134",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D11",
+      "turno": 1,
+      "placa": "RKC1G34",
+      "prefixo": "R115",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D12",
+      "turno": 1,
+      "placa": "RKC1G34",
+      "prefixo": "R115",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D13",
+      "turno": 1,
+      "placa": "RKC1G35",
+      "prefixo": "R117",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D14",
+      "turno": 1,
+      "placa": "RKC1G35",
+      "prefixo": "R117",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D15",
+      "turno": 1,
+      "placa": "RKS1I93",
+      "prefixo": "R119",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D16",
+      "turno": 1,
+      "placa": "RKS1I93",
+      "prefixo": "R119",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D17",
+      "turno": 1,
+      "placa": "SRO6I69",
+      "prefixo": "G170",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D18",
+      "turno": 1,
+      "placa": "SRO6I69",
+      "prefixo": "G170",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D19",
+      "turno": 2,
+      "placa": "RKC1G34",
+      "prefixo": "R115",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D20",
+      "turno": 2,
+      "placa": "RIU1F48",
+      "prefixo": "R136",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D21",
+      "turno": 2,
+      "placa": "SRD1J25",
+      "prefixo": "G169",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D22",
+      "turno": 2,
+      "placa": "SRD1J25",
+      "prefixo": "G169",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D23",
+      "turno": 2,
+      "placa": "RKC1G35",
+      "prefixo": "R117",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D24",
+      "turno": 2,
+      "placa": "RKC1G45",
+      "prefixo": "R122",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D25",
+      "turno": 2,
+      "placa": "RKT1J12",
+      "prefixo": "R133",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D26",
+      "turno": 2,
+      "placa": "RKT1J12",
+      "prefixo": "R133",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D27",
+      "turno": 2,
+      "placa": "RKS1I93",
+      "prefixo": "R119",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D28",
+      "turno": 2,
+      "placa": "RKS1I93",
+      "prefixo": "R119",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D29",
+      "turno": 2,
+      "placa": "RKD2A01",
+      "prefixo": "R132",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D30",
+      "turno": 2,
+      "placa": "RKC1G37",
+      "prefixo": "R114",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D31",
+      "turno": 2,
+      "placa": "SRG7C37",
+      "prefixo": "G180",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D32",
+      "turno": 2,
+      "placa": "SRG7C37",
+      "prefixo": "G180",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D33",
+      "turno": 2,
+      "placa": "RKS1I83",
+      "prefixo": "R145",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D34",
+      "turno": 2,
+      "placa": "RKT1J29",
+      "prefixo": "R144",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D35",
+      "turno": 2,
+      "placa": "RJE1D81",
+      "prefixo": "R118",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D36",
+      "turno": 2,
+      "placa": "RJE1D81",
+      "prefixo": "R118",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D39",
+      "turno": 1,
+      "placa": "RKC1G37",
+      "prefixo": "R114",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D40",
+      "turno": 1,
+      "placa": "RKC1G37",
+      "prefixo": "R114",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18G",
+      "roteiro": "18D51",
+      "turno": 2,
+      "placa": "RKS1I98",
+      "prefixo": "R134",
+      "dias": 0,
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D00",
+      "turno": 1,
+      "placa": "RKD1J94",
+      "prefixo": "R123",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D01",
+      "turno": 1,
+      "placa": "RKD1J94",
+      "prefixo": "R123",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D02",
+      "turno": 1,
+      "placa": "RKU1H07",
+      "prefixo": "R124",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D03",
+      "turno": 1,
+      "placa": "RKU1H07",
+      "prefixo": "R124",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D04",
+      "turno": 1,
+      "placa": "RKU1H25",
+      "prefixo": "R139",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D05",
+      "turno": 1,
+      "placa": "RKU1H25",
+      "prefixo": "R139",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D06",
+      "turno": 1,
+      "placa": "RKT1J30",
+      "prefixo": "R141",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D07",
+      "turno": 1,
+      "placa": "RKT1J30",
+      "prefixo": "R141",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D08",
+      "turno": 1,
+      "placa": "RIY1G09",
+      "prefixo": "R106",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D09",
+      "turno": 1,
+      "placa": "RIY1G09",
+      "prefixo": "R106",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D10",
+      "turno": 1,
+      "placa": "RIU1F46",
+      "prefixo": "R125",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D11",
+      "turno": 1,
+      "placa": "RIU1F46",
+      "prefixo": "R125",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D12",
+      "turno": 2,
+      "placa": "RKD1J94",
+      "prefixo": "R123",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D13",
+      "turno": 2,
+      "placa": "RKD1J94",
+      "prefixo": "R123",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D14",
+      "turno": 2,
+      "placa": "SRJ6H69",
+      "prefixo": "G178",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D15",
+      "turno": 2,
+      "placa": "SRJ6H69",
+      "prefixo": "G178",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D16",
+      "turno": 2,
+      "placa": "RKU1H07",
+      "prefixo": "R124",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D17",
+      "turno": 2,
+      "placa": "RKU1H07",
+      "prefixo": "R124",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D18",
+      "turno": 2,
+      "placa": "RIU1F46",
+      "prefixo": "R125",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D19",
+      "turno": 2,
+      "placa": "RIU1F46",
+      "prefixo": "R125",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D20",
+      "turno": 2,
+      "placa": "RIX2J05",
+      "prefixo": "R107",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D21",
+      "turno": 2,
+      "placa": "RIX2J05",
+      "prefixo": "R107",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D22",
+      "turno": 2,
+      "placa": "RJD1E82",
+      "prefixo": "R108",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D23",
+      "turno": 2,
+      "placa": "RJD1E82",
+      "prefixo": "R108",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D24",
+      "turno": 1,
+      "placa": "RIX2J05",
+      "prefixo": "R107",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D25",
+      "turno": 1,
+      "placa": "RIX2J05",
+      "prefixo": "R107",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D26",
+      "turno": 2,
+      "placa": "SRI6H60",
+      "prefixo": "G179",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D27",
+      "turno": 2,
+      "placa": "SRI6H60",
+      "prefixo": "G179",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D28",
+      "turno": 1,
+      "placa": "RJD1E82",
+      "prefixo": "R108",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG18V",
+      "roteiro": "46D29",
+      "turno": 1,
+      "placa": "RJD1E82",
+      "prefixo": "R108",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D01",
+      "turno": 1,
+      "placa": "RKD2A01",
+      "prefixo": "R132",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D02",
+      "turno": 1,
+      "placa": "RKD2A01",
+      "prefixo": "R132",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D03",
+      "turno": 1,
+      "placa": "RIU1F43",
+      "prefixo": "R130",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D04",
+      "turno": 1,
+      "placa": "RIU1F43",
+      "prefixo": "R130",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D05",
+      "turno": 2,
+      "placa": "RKK1I75",
+      "prefixo": "R129",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D06",
+      "turno": 2,
+      "placa": "RJB1F38",
+      "prefixo": "R109",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D07",
+      "turno": 2,
+      "placa": "RJB1F38",
+      "prefixo": "R109",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D08",
+      "turno": 2,
+      "placa": "RKT1J17",
+      "prefixo": "R126",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D09",
+      "turno": 2,
+      "placa": "RKT1J17",
+      "prefixo": "R126",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D10",
+      "turno": 2,
+      "placa": "RKD2A01",
+      "prefixo": "R132",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D12",
+      "turno": 2,
+      "placa": "RKD1J98",
+      "prefixo": "R121",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D16",
+      "turno": 1,
+      "placa": "RKT1J23",
+      "prefixo": "R127",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D18",
+      "turno": 1,
+      "placa": "RKK1I77",
+      "prefixo": "R128",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D19",
+      "turno": 1,
+      "placa": "RKT1J23",
+      "prefixo": "R127",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D20",
+      "turno": 2,
+      "placa": "RKK1I77",
+      "prefixo": "R128",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D21",
+      "turno": 1,
+      "placa": "RKK1I77",
+      "prefixo": "R128",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D22",
+      "turno": 2,
+      "placa": "RKT1J23",
+      "prefixo": "R127",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D23",
+      "turno": 2,
+      "placa": "RKK1I77",
+      "prefixo": "R128",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D24",
+      "turno": 1,
+      "placa": "RKT1J17",
+      "prefixo": "R126",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D25",
+      "turno": 2,
+      "placa": "RKT1J23",
+      "prefixo": "R127",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D26",
+      "turno": 1,
+      "placa": "RIU1F51",
+      "prefixo": "R131",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D27",
+      "turno": 1,
+      "placa": "RIU1F51",
+      "prefixo": "R131",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D28",
+      "turno": 2,
+      "placa": "RIU1F43",
+      "prefixo": "R130",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D29",
+      "turno": 1,
+      "placa": "RKT1J17",
+      "prefixo": "R126",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D30",
+      "turno": 1,
+      "placa": "RIY1E03",
+      "prefixo": "R103",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D31",
+      "turno": 2,
+      "placa": "RKU1H45",
+      "prefixo": "R140",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D32",
+      "turno": 2,
+      "placa": "RIY1E03",
+      "prefixo": "R103",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D33",
+      "turno": 1,
+      "placa": "RIY1E03",
+      "prefixo": "R103",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D35",
+      "turno": 2,
+      "placa": "RIY1E03",
+      "prefixo": "R103",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D37",
+      "turno": 1,
+      "placa": "RJB1F38",
+      "prefixo": "R109",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D38",
+      "turno": 1,
+      "placa": "RJB1F38",
+      "prefixo": "R109",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D39",
+      "turno": 2,
+      "placa": "RKU1H51",
+      "prefixo": "R112",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D40",
+      "turno": 2,
+      "placa": "RKU1H51",
+      "prefixo": "R112",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D41",
+      "turno": 1,
+      "placa": "RKK1I75",
+      "prefixo": "R129",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D42",
+      "turno": 1,
+      "placa": "RKK1I75",
+      "prefixo": "R129",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D43",
+      "turno": 2,
+      "placa": "RIU1F43",
+      "prefixo": "R130",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D44",
+      "turno": 2,
+      "placa": "RKK1I75",
+      "prefixo": "R129",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D48",
+      "turno": 2,
+      "placa": "RJA1E83",
+      "prefixo": "R110",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D49",
+      "turno": 1,
+      "placa": "RJA1E83",
+      "prefixo": "R110",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D50",
+      "turno": 1,
+      "placa": "RIY1D85",
+      "prefixo": "R104",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D51",
+      "turno": 2,
+      "placa": "RKD1J98",
+      "prefixo": "R121",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D53",
+      "turno": 1,
+      "placa": "RIU1F54",
+      "prefixo": "R138",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D54",
+      "turno": 1,
+      "placa": "RIU1F54",
+      "prefixo": "R138",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D56",
+      "turno": 1,
+      "placa": "RKD1J98",
+      "prefixo": "R121",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D57",
+      "turno": 1,
+      "placa": "RKD1J98",
+      "prefixo": "R121",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D59",
+      "turno": 2,
+      "placa": "RJA1E83",
+      "prefixo": "R110",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D61",
+      "turno": 2,
+      "placa": "RKC1G37",
+      "prefixo": "R114",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG19C",
+      "roteiro": "19D62",
+      "turno": 2,
+      "placa": "RKC1G34",
+      "prefixo": "R115",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D01",
+      "turno": 1,
+      "placa": "RKT1J39",
+      "prefixo": "R137",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D02",
+      "turno": 1,
+      "placa": "RKT1J39",
+      "prefixo": "R137",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D03",
+      "turno": 1,
+      "placa": "RKU1H38",
+      "prefixo": "R143",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D04",
+      "turno": 1,
+      "placa": "RKU1H38",
+      "prefixo": "R143",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D05",
+      "turno": 1,
+      "placa": "RIY1G13",
+      "prefixo": "R135",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D06",
+      "turno": 1,
+      "placa": "RIY1G13",
+      "prefixo": "R135",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D07",
+      "turno": 1,
+      "placa": "RKD1J96",
+      "prefixo": "R116",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D08",
+      "turno": 1,
+      "placa": "RKD1J96",
+      "prefixo": "R116",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D09",
+      "turno": 1,
+      "placa": "RIU1F48",
+      "prefixo": "R136",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D10",
+      "turno": 1,
+      "placa": "RIU1F48",
+      "prefixo": "R136",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D11",
+      "turno": 2,
+      "placa": "RKU1H38",
+      "prefixo": "R143",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D12",
+      "turno": 2,
+      "placa": "RKU1H38",
+      "prefixo": "R143",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D13",
+      "turno": 2,
+      "placa": "RIU1F54",
+      "prefixo": "R138",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D14",
+      "turno": 2,
+      "placa": "RIU1F54",
+      "prefixo": "R138",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D15",
+      "turno": 2,
+      "placa": "RIU1F48",
+      "prefixo": "R136",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D19",
+      "turno": 1,
+      "placa": "RKU1H51",
+      "prefixo": "R112",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D20",
+      "turno": 1,
+      "placa": "RKU1H51",
+      "prefixo": "R112",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D32",
+      "turno": 2,
+      "placa": "RKT1J39",
+      "prefixo": "R137",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D33",
+      "turno": 2,
+      "placa": "RKT1J39",
+      "prefixo": "R137",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D34",
+      "turno": 1,
+      "placa": "RJH1F90",
+      "prefixo": "R164",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D35",
+      "turno": 1,
+      "placa": "RJH1F90",
+      "prefixo": "R164",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D36",
+      "turno": 1,
+      "placa": "LUC4C62",
+      "prefixo": "R165",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D37",
+      "turno": 1,
+      "placa": "LUC4C62",
+      "prefixo": "R165",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D38",
+      "turno": 2,
+      "placa": "LUC4C62",
+      "prefixo": "R165",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D39",
+      "turno": 2,
+      "placa": "LUC4C62",
+      "prefixo": "R165",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D40",
+      "turno": 2,
+      "placa": "RJH1F90",
+      "prefixo": "R164",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D41",
+      "turno": 2,
+      "placa": "RJH1F90",
+      "prefixo": "R164",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D51",
+      "turno": 1,
+      "placa": "RKU1H45",
+      "prefixo": "R140",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG26P",
+      "roteiro": "26D60",
+      "turno": 1,
+      "placa": "SRD1H88",
+      "prefixo": "G162",
+      "dias": 0,
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D00",
+      "turno": 1,
+      "placa": "SRO6I66",
+      "prefixo": "G167",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D01",
+      "turno": 1,
+      "placa": "SRO6I66",
+      "prefixo": "G167",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D02",
+      "turno": 1,
+      "placa": "SRP6H94",
+      "prefixo": "G184",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D03",
+      "turno": 1,
+      "placa": "SRP6H94",
+      "prefixo": "G184",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D04",
+      "turno": 1,
+      "placa": "SRP7A69",
+      "prefixo": "G183",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D05",
+      "turno": 1,
+      "placa": "SRP7A69",
+      "prefixo": "G183",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D06",
+      "turno": 1,
+      "placa": "SRC1E58",
+      "prefixo": "G181",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D07",
+      "turno": 1,
+      "placa": "SRC1E58",
+      "prefixo": "G181",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D08",
+      "turno": 1,
+      "placa": "SRG7C38",
+      "prefixo": "G182",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D09",
+      "turno": 1,
+      "placa": "SRG7C38",
+      "prefixo": "G182",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D12",
+      "turno": 2,
+      "placa": "SRC1E42",
+      "prefixo": "G177",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D13",
+      "turno": 2,
+      "placa": "SRC1E42",
+      "prefixo": "G177",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D14",
+      "turno": 2,
+      "placa": "SRP7A69",
+      "prefixo": "G183",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D15",
+      "turno": 2,
+      "placa": "SRP7A69",
+      "prefixo": "G183",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D16",
+      "turno": 2,
+      "placa": "SRP6H94",
+      "prefixo": "G184",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D17",
+      "turno": 2,
+      "placa": "SRP6H94",
+      "prefixo": "G184",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D18",
+      "turno": 2,
+      "placa": "SRG7C38",
+      "prefixo": "G182",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D19",
+      "turno": 2,
+      "placa": "SRG7C38",
+      "prefixo": "G182",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D20",
+      "turno": 2,
+      "placa": "SRD8F65",
+      "prefixo": "G176",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D21",
+      "turno": 2,
+      "placa": "SRD8F65",
+      "prefixo": "G176",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D22",
+      "turno": 2,
+      "placa": "SRC1E58",
+      "prefixo": "G181",
+      "dias": "1,3,5",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "OG33R",
+      "roteiro": "33D23",
+      "turno": 2,
+      "placa": "SRC1E58",
+      "prefixo": "G181",
+      "dias": "2,4,6",
+      "inicio": "17:00:00",
+      "fim": "01:20:00"
+    },
+    {
+      "gerencia": "SG01P",
+      "roteiro": "01D01",
+      "turno": 1,
+      "placa": "KZO7A86",
+      "prefixo": "J102",
+      "dias": 0,
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG01P",
+      "roteiro": "01D02",
+      "turno": 1,
+      "placa": "KZP9G67",
+      "prefixo": "J116",
+      "dias": 0,
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG01P",
+      "roteiro": "01D12",
+      "turno": 1,
+      "placa": "EOC0A86",
+      "prefixo": "Q131",
+      "dias": "0,1,2,3,4,5,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG02C",
+      "roteiro": "02D00",
+      "turno": 2,
+      "placa": "LMO6A54",
+      "prefixo": "J112",
+      "dias": 0,
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "SG02C",
+      "roteiro": "02D01",
+      "turno": 2,
+      "placa": "KZO7B30",
+      "prefixo": "J118",
+      "dias": 0,
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "SG02C",
+      "roteiro": "02D02",
+      "turno": 2,
+      "placa": "KZO7B29",
+      "prefixo": "J119",
+      "dias": 0,
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "SG02C",
+      "roteiro": "02D05",
+      "turno": 2,
+      "placa": "KZO7B31",
+      "prefixo": "J120",
+      "dias": 0,
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "SG02C",
+      "roteiro": "02D09",
+      "turno": 2,
+      "placa": "KZO7B15",
+      "prefixo": "J107",
+      "dias": 0,
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "SG02C",
+      "roteiro": "02D14",
+      "turno": 3,
+      "placa": "KZO7B29",
+      "prefixo": "J119",
+      "dias": "6",
+      "inicio": "15:21:00",
+      "fim": "23:41:00"
+    },
+    {
+      "gerencia": "SG02C",
+      "roteiro": "",
+      "turno": 3,
+      "placa": "LTQ6F48",
+      "prefixo": "J182",
+      "dias": "6",
+      "inicio": "15:00:00",
+      "fim": "23:20:00"
+    },
+    {
+      "gerencia": "SG02C",
+      "roteiro": "02D16",
+      "turno": 3,
+      "placa": "KZO7B15",
+      "prefixo": "J107",
+      "dias": "6",
+      "inicio": "15:00:00",
+      "fim": "23:20:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D00",
+      "turno": 1,
+      "placa": "DSW5C12",
+      "prefixo": "Q111",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D01",
+      "turno": 1,
+      "placa": "DSW5C12",
+      "prefixo": "Q111",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D02",
+      "turno": 1,
+      "placa": "KZO7B15",
+      "prefixo": "J107",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D03",
+      "turno": 1,
+      "placa": "KZO7B15",
+      "prefixo": "J107",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D04",
+      "turno": 2,
+      "placa": "KZO7B10",
+      "prefixo": "J113",
+      "dias": "1,3,5",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D05",
+      "turno": 2,
+      "placa": "KZO7B10",
+      "prefixo": "J113",
+      "dias": "2,4,6",
+      "inicio": "18:00:00",
+      "fim": "02:20:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D06",
+      "turno": 1,
+      "placa": "LMO6A54",
+      "prefixo": "J112",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D07",
+      "turno": 1,
+      "placa": "LMO6A54",
+      "prefixo": "J112",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D08",
+      "turno": 1,
+      "placa": "KZO7B29",
+      "prefixo": "J119",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D09",
+      "turno": 1,
+      "placa": "KZO7B29",
+      "prefixo": "J119",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D10",
+      "turno": 1,
+      "placa": "KZO7B31",
+      "prefixo": "J120",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D11",
+      "turno": 1,
+      "placa": "KZO7B31",
+      "prefixo": "J120",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D12",
+      "turno": 3,
+      "placa": "EHH6F87",
+      "prefixo": "Q143",
+      "dias": "1,3,5",
+      "inicio": "15:20:00",
+      "fim": "23:40:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D20",
+      "turno": 1,
+      "placa": "EHH6F87",
+      "prefixo": "Q143",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D21",
+      "turno": 3,
+      "placa": "EHH6F87",
+      "prefixo": "Q143",
+      "dias": "2,4,6",
+      "inicio": "15:20:00",
+      "fim": "23:40:00"
+    },
+    {
+      "gerencia": "SG03R",
+      "roteiro": "03D23",
+      "turno": 1,
+      "placa": "EHH6F87",
+      "prefixo": "Q143",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D00",
+      "turno": 2,
+      "placa": "LTT9J70",
+      "prefixo": "J122",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D01",
+      "turno": 2,
+      "placa": "RJY0F39",
+      "prefixo": "Q116",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D02",
+      "turno": 2,
+      "placa": "RJY0F39",
+      "prefixo": "Q116",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D03",
+      "turno": 2,
+      "placa": "LTT9J70",
+      "prefixo": "J122",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D04",
+      "turno": 1,
+      "placa": "DCG0H41",
+      "prefixo": "Q109",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D05",
+      "turno": 1,
+      "placa": "DCG0H41",
+      "prefixo": "Q109",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D06",
+      "turno": 1,
+      "placa": "CND5I66",
+      "prefixo": "Q110",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D07",
+      "turno": 1,
+      "placa": "CND5I66",
+      "prefixo": "Q110",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D08",
+      "turno": 2,
+      "placa": "DVJ0I11",
+      "prefixo": "Q132",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D09",
+      "turno": 2,
+      "placa": "DVJ0I11",
+      "prefixo": "Q132",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D10",
+      "turno": 2,
+      "placa": "EZZ3J74",
+      "prefixo": "Q124",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D11",
+      "turno": 2,
+      "placa": "EZZ3J74",
+      "prefixo": "Q124",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D12",
+      "turno": 2,
+      "placa": "DVS7E71",
+      "prefixo": "Q122",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D13",
+      "turno": 2,
+      "placa": "DVS7E71",
+      "prefixo": "Q122",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D14",
+      "turno": 2,
+      "placa": "RIT0H19",
+      "prefixo": "Q121",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D15",
+      "turno": 2,
+      "placa": "RIT0H19",
+      "prefixo": "Q121",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D16",
+      "turno": 2,
+      "placa": "ENG7G93",
+      "prefixo": "Q123",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D17",
+      "turno": 2,
+      "placa": "ENG7G93",
+      "prefixo": "Q123",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D18",
+      "turno": 1,
+      "placa": "ENG7G93",
+      "prefixo": "Q123",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D19",
+      "turno": 1,
+      "placa": "ENG7G93",
+      "prefixo": "Q123",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D20",
+      "turno": 1,
+      "placa": "EZZ3J74",
+      "prefixo": "Q124",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG04B",
+      "roteiro": "04D21",
+      "turno": 1,
+      "placa": "EZZ3J74",
+      "prefixo": "Q124",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D00",
+      "turno": 2,
+      "placa": "EJY5G82",
+      "prefixo": "Q113",
+      "dias": "1,3,5",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D01",
+      "turno": 2,
+      "placa": "EJY5G82",
+      "prefixo": "Q113",
+      "dias": "2,4,6",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D02",
+      "turno": 2,
+      "placa": "ELU7E05",
+      "prefixo": "Q133",
+      "dias": "1,3,5",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D03",
+      "turno": 2,
+      "placa": "ELU7E05",
+      "prefixo": "Q133",
+      "dias": "2,4,6",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D04",
+      "turno": 2,
+      "placa": "DCV0H89",
+      "prefixo": "Q134",
+      "dias": "1,3,5",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D05",
+      "turno": 2,
+      "placa": "DCV0H89",
+      "prefixo": "Q134",
+      "dias": "2,4,6",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D06",
+      "turno": 2,
+      "placa": "DCG0H41",
+      "prefixo": "Q109",
+      "dias": "1,3,5",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D07",
+      "turno": 2,
+      "placa": "DCG0H41",
+      "prefixo": "Q109",
+      "dias": "2,4,6",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D08",
+      "turno": 2,
+      "placa": "FWB9G53",
+      "prefixo": "Q129",
+      "dias": "1,3,5",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D09",
+      "turno": 2,
+      "placa": "FWB9G53",
+      "prefixo": "Q129",
+      "dias": "2,4,6",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D10",
+      "turno": 2,
+      "placa": "EJW5D65",
+      "prefixo": "Q125",
+      "dias": "1,3,5",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D11",
+      "turno": 2,
+      "placa": "EJW5D65",
+      "prefixo": "Q125",
+      "dias": "2,4,6",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D12",
+      "turno": 1,
+      "placa": "LTT9J69",
+      "prefixo": "J123",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D13",
+      "turno": 1,
+      "placa": "LTT9J69",
+      "prefixo": "J123",
+      "dias": "2,4,6",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D14",
+      "turno": 1,
+      "placa": "KZO7B10",
+      "prefixo": "J113",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG05C",
+      "roteiro": "05D15",
+      "turno": 1,
+      "placa": "EJW5D65",
+      "prefixo": "Q125",
+      "dias": "2,4,6",
+      "inicio": "08:00:00",
+      "fim": "16:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D01",
+      "turno": 2,
+      "placa": "EOJ8954",
+      "prefixo": "Q136",
+      "dias": "2,4,6",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D02",
+      "turno": 2,
+      "placa": "FZT0E75",
+      "prefixo": "Q141",
+      "dias": "1,3,5",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D03",
+      "turno": 2,
+      "placa": "ECO3J40",
+      "prefixo": "Q126",
+      "dias": "2,4,6",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D04",
+      "turno": 2,
+      "placa": "EOJ8954",
+      "prefixo": "Q136",
+      "dias": "1,3,5",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D05",
+      "turno": 2,
+      "placa": "FZT0E75",
+      "prefixo": "Q141",
+      "dias": "2,4,6",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D06",
+      "turno": 2,
+      "placa": "ECO3J40",
+      "prefixo": "Q126",
+      "dias": "1,3,5",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D07",
+      "turno": 2,
+      "placa": "DXH9J31",
+      "prefixo": "Q128",
+      "dias": "2,4,6",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D08",
+      "turno": 2,
+      "placa": "EFL9C80",
+      "prefixo": "Q112",
+      "dias": "1,3,5",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D09",
+      "turno": 2,
+      "placa": "EFL9C80",
+      "prefixo": "Q112",
+      "dias": "2,4,6",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D10",
+      "turno": 2,
+      "placa": "RJH0H99",
+      "prefixo": "Q119",
+      "dias": "1,3,5",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D11",
+      "turno": 2,
+      "placa": "RJH0H99",
+      "prefixo": "Q119",
+      "dias": "2,4,6",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D12",
+      "turno": 2,
+      "placa": "DXH9J31",
+      "prefixo": "Q128",
+      "dias": "1,3,5",
+      "inicio": "21:00:00",
+      "fim": "05:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D13",
+      "turno": 1,
+      "placa": "EOJ8954",
+      "prefixo": "Q136",
+      "dias": "2,4,6",
+      "inicio": "08:00:00",
+      "fim": "16:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D14",
+      "turno": 1,
+      "placa": "EOJ8954",
+      "prefixo": "Q136",
+      "dias": "1,3,5",
+      "inicio": "08:00:00",
+      "fim": "16:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D15",
+      "turno": 1,
+      "placa": "EXW4A88",
+      "prefixo": "Q130",
+      "dias": "2,4,6",
+      "inicio": "08:00:00",
+      "fim": "16:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D16",
+      "turno": 1,
+      "placa": "EXW4A88",
+      "prefixo": "Q130",
+      "dias": "1,3,5",
+      "inicio": "08:00:00",
+      "fim": "16:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D17",
+      "turno": 1,
+      "placa": "EFL9C80",
+      "prefixo": "Q112",
+      "dias": "2,4,6",
+      "inicio": "08:00:00",
+      "fim": "16:20:00"
+    },
+    {
+      "gerencia": "SG06L",
+      "roteiro": "06D18",
+      "turno": 1,
+      "placa": "EFL9C80",
+      "prefixo": "Q112",
+      "dias": "1,3,5",
+      "inicio": "08:00:00",
+      "fim": "16:20:00"
+    },
+    {
+      "gerencia": "SG07S",
+      "roteiro": "07D00",
+      "turno": 1,
+      "placa": "KZO7B30",
+      "prefixo": "J118",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG07S",
+      "roteiro": "07D01",
+      "turno": 1,
+      "placa": "KZO7B30",
+      "prefixo": "J118",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG07S",
+      "roteiro": "07D02",
+      "turno": 1,
+      "placa": "KZO7B16",
+      "prefixo": "J110",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG07S",
+      "roteiro": "07D03",
+      "turno": 1,
+      "placa": "KZO7B16",
+      "prefixo": "J110",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG07S",
+      "roteiro": "07D04",
+      "turno": 2,
+      "placa": "KZO7B13",
+      "prefixo": "J109",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG07S",
+      "roteiro": "07D05",
+      "turno": 2,
+      "placa": "KZO7B16",
+      "prefixo": "J110",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG07S",
+      "roteiro": "07D06",
+      "turno": 2,
+      "placa": "KZO7B14",
+      "prefixo": "J108",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG07S",
+      "roteiro": "07D07",
+      "turno": 2,
+      "placa": "KZO7B13",
+      "prefixo": "J109",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D01",
+      "turno": 1,
+      "placa": "BVW4C18",
+      "prefixo": "Q114",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D02",
+      "turno": 1,
+      "placa": "LTQ4C99",
+      "prefixo": "J129",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D03",
+      "turno": 1,
+      "placa": "LTQ4C99",
+      "prefixo": "J129",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D04",
+      "turno": 1,
+      "placa": "FWB9G53",
+      "prefixo": "Q129",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D05",
+      "turno": 1,
+      "placa": "EYI1C92",
+      "prefixo": "Q127",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D06",
+      "turno": 1,
+      "placa": "EYI1C92",
+      "prefixo": "Q127",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D07",
+      "turno": 1,
+      "placa": "FWB9G53",
+      "prefixo": "Q129",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D08",
+      "turno": 1,
+      "placa": "BVW4C18",
+      "prefixo": "Q114",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D09",
+      "turno": 2,
+      "placa": "ELO5A86",
+      "prefixo": "Q137",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D10",
+      "turno": 2,
+      "placa": "EXW4A88",
+      "prefixo": "Q130",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D11",
+      "turno": 2,
+      "placa": "EXW4A88",
+      "prefixo": "Q130",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D12",
+      "turno": 2,
+      "placa": "CND5I66",
+      "prefixo": "Q110",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D13",
+      "turno": 2,
+      "placa": "CND5I66",
+      "prefixo": "Q110",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D14",
+      "turno": 2,
+      "placa": "ELO5A86",
+      "prefixo": "Q137",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D15",
+      "turno": 2,
+      "placa": "BVW4C18",
+      "prefixo": "Q114",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D16",
+      "turno": 2,
+      "placa": "BVW4C18",
+      "prefixo": "Q114",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG08T",
+      "roteiro": "08D17",
+      "turno": 1,
+      "placa": "KZO7B10",
+      "prefixo": "J113",
+      "dias": "2,4,6",
+      "inicio": "08:00:00",
+      "fim": "16:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D01",
+      "turno": 1,
+      "placa": "DVS7E71",
+      "prefixo": "Q122",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D02",
+      "turno": 1,
+      "placa": "DVS7E71",
+      "prefixo": "Q122",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D03",
+      "turno": 1,
+      "placa": "EOO9G73",
+      "prefixo": "Q138",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D05",
+      "turno": 1,
+      "placa": "ELK5J32",
+      "prefixo": "Q139",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D06",
+      "turno": 1,
+      "placa": "ELK5J32",
+      "prefixo": "Q139",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D08",
+      "turno": 1,
+      "placa": "EOO9G73",
+      "prefixo": "Q138",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D10",
+      "turno": 2,
+      "placa": "EOO9G73",
+      "prefixo": "Q138",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D11",
+      "turno": 2,
+      "placa": "ELM5B23",
+      "prefixo": "Q142",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D12",
+      "turno": 1,
+      "placa": "ELU7E05",
+      "prefixo": "Q133",
+      "dias": "1,3,5",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D13",
+      "turno": 2,
+      "placa": "EOO9G73",
+      "prefixo": "Q138",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D14",
+      "turno": 2,
+      "placa": "ELK5J32",
+      "prefixo": "Q139",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D15",
+      "turno": 1,
+      "placa": "ELU7E05",
+      "prefixo": "Q133",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D16",
+      "turno": 2,
+      "placa": "ELM5B23",
+      "prefixo": "Q142",
+      "dias": "1,3,5",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D17",
+      "turno": 2,
+      "placa": "ELK5J32",
+      "prefixo": "Q139",
+      "dias": "2,4,6",
+      "inicio": "19:00:00",
+      "fim": "03:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D18",
+      "turno": 1,
+      "placa": "LMX2I34",
+      "prefixo": "N104",
+      "dias": "1,3,5",
+      "inicio": "06:00:00",
+      "fim": "14:20:00"
+    },
+    {
+      "gerencia": "SG09V",
+      "roteiro": "09D19",
+      "turno": 1,
+      "placa": "LMX2I34",
+      "prefixo": "N104",
+      "dias": "2,4,6",
+      "inicio": "07:00:00",
+      "fim": "15:20:00"
+    },
+    {
+      "gerencia": "SG27R",
+      "roteiro": "52D01",
+      "turno": 1,
+      "placa": "RKH0H23",
+      "prefixo": "Q120",
+      "dias": "2,4,6",
+      "inicio": "08:00:00",
+      "fim": "16:20:00"
+    },
+    {
+      "gerencia": "SG27R",
+      "roteiro": "52D02",
+      "turno": 1,
+      "placa": "RKH0H23",
+      "prefixo": "Q120",
+      "dias": "1,3,5",
+      "inicio": "08:00:00",
+      "fim": "16:20:00"
+    }
+  ]
+  

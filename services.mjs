@@ -1,0 +1,84 @@
+import { readFile } from "fs/promises";
+import moment from "moment-timezone";
+
+export async function loadJSON() {
+  try {
+    const data = await readFile(
+      new URL("./roteiro.json", import.meta.url),
+      "utf-8"
+    );
+    return JSON.parse(data);
+  } catch (error) {
+    console.error("Erro ao carregar o arquivo JSON:", error);
+  }
+}
+
+export function getCurrentDateTime() {
+  const now = moment().tz("America/Sao_Paulo");
+  const dataHora = {
+    dia: now.format("DD-MM-YYYY"),
+    hora: now.format("HH:mm:ss"),
+    dia_da_semana: now.day(), // Retorna o dia da semana como número (0 a 6)
+    timestamp: now.valueOf(), // Retorna o timestamp atual em milissegundos
+  };
+
+  return dataHora;
+}
+
+export function transformPayload(payload) {
+  const payloadModificado = payload.map((p) => ({
+    id_integracao: p.id_integracao,
+    id_veiculo: p.id_veiculo,
+    placa: p.placa,
+    prefixo: p.veiculo,
+    data: p.data,
+    latitude: p.latitude,
+    longitude: p.longitude,
+  }));
+
+  return payloadModificado;
+}
+
+function convertToTimestamp(dateString) {
+  const format = "DD-MM-YYYY HH:mm:ss";
+  const momentDate = moment.tz(dateString, format, "America/Sao_Paulo");
+  return momentDate.valueOf();
+}
+
+export async function getRoteiro(payloadModificado) {
+  const roteiros = await loadJSON();
+  const result = [];
+  const { dia, hora, dia_da_semana, timestamp } = getCurrentDateTime();
+
+  /**
+   * Eu aqui, crio um objeto inicio e fim timestamp, que server basicamente para
+   * Traduzir um iniico e um fim, para um timestamp dentro do dia corrente.
+   */
+
+  for (let pay of payloadModificado) {
+    const index = roteiros.findIndex((x) => x.prefixo === pay.prefixo);
+    const obj = roteiros[index];
+    if (index !== -1) {
+      pay.roteiro = obj.roteiro;
+      pay.gerencia = obj.gerencia;
+      pay.turno = obj.turno;
+      pay.dias = obj.dias
+        .toString()
+        .split(",")
+        .map((x) => Number(x));
+      pay.inicio = obj.inicio;
+      pay.fim = obj.fim;
+      pay.inicio_timestamp = convertToTimestamp(`${dia} ${obj.inicio}`);
+      pay.fim_timestamp = convertToTimestamp(`${dia} ${obj.fim}`);
+      result.push(pay);
+    }
+  }
+
+  const filter = result
+    .filter((x) => x.dias.includes(dia_da_semana))
+    .filter(
+      (t) => t.inicio_timestamp <= timestamp && t.fim_timestamp >= timestamp
+    );
+
+  return filter;
+}
