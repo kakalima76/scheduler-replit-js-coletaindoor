@@ -41,10 +41,23 @@ export function transformPayload(payload) {
   return payloadModificado;
 }
 
-function convertToTimestamp(dateString) {
+function convertToTimestamp(dateString, turno, roteiro) {
   const format = "DD-MM-YYYY HH:mm:ss";
-  const momentDate = moment.tz(dateString, format, "America/Sao_Paulo");
-  return momentDate.valueOf();
+
+  let digito = Number(dateString.substring(11, 13));
+  let dia = Number(dateString.substring(0, 2));
+
+  if (turno === 2 && digito < 12) {
+    dia = dia + 1;
+  }
+
+  const str_dia = dia.toString().padStart(2, "0");
+
+  dateString = `${str_dia}${dateString.substring(2)}`;
+
+  let momentDate = moment.tz(dateString, format, "America/Sao_Paulo");
+
+  return momentDate.valueOf(); // Retorna o timestamp em milissegundos
 }
 
 export async function getRoteiro(payloadModificado) {
@@ -70,8 +83,16 @@ export async function getRoteiro(payloadModificado) {
         .map((x) => Number(x));
       pay.inicio = obj.inicio;
       pay.fim = obj.fim;
-      pay.inicio_timestamp = convertToTimestamp(`${dia} ${obj.inicio}`);
-      pay.fim_timestamp = convertToTimestamp(`${dia} ${obj.fim}`);
+      pay.inicio_timestamp = convertToTimestamp(
+        `${dia} ${obj.inicio}`,
+        obj.turno,
+        obj.roteiro
+      );
+      pay.fim_timestamp = convertToTimestamp(
+        `${dia} ${obj.fim}`,
+        obj.turno,
+        obj.roteiro
+      );
       result.push(pay);
     }
   }

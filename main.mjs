@@ -37,15 +37,13 @@ import { transformPayload, getRoteiro } from "./services.mjs";
 
         for (let c of coordenadas) {
           const index = telemetriaFiltrada.findIndex(
-            (x) => x.roteiro === c.roteiro
+            (x) => x.roteiro === c.roteiro.toUpperCase()
           );
 
           if (index !== -1) {
+
             const { data, latitude, longitude, prefixo, placa } =
               telemetriaFiltrada[index];
-            const data_veiculo = data;
-            const lat_veiculo = latitude;
-            const lng_veiculo = longitude;
 
             c = {
               ...c,
