@@ -41,13 +41,13 @@ export function transformPayload(payload) {
   return payloadModificado;
 }
 
-function convertToTimestamp(dateString, turno, roteiro) {
+function convertToTimestamp(dateString, turno, hora) {
   const format = "DD-MM-YYYY HH:mm:ss";
 
   let digito = Number(dateString.substring(11, 13));
   let dia = Number(dateString.substring(0, 2));
 
-  if (turno === 2 && digito < 12) {
+  if (turno === 2 && digito < 12 && hora >= 18) {
     dia = dia + 1;
   }
 
@@ -86,12 +86,12 @@ export async function getRoteiro(payloadModificado) {
       pay.inicio_timestamp = convertToTimestamp(
         `${dia} ${obj.inicio}`,
         obj.turno,
-        obj.roteiro
+        hora
       );
       pay.fim_timestamp = convertToTimestamp(
         `${dia} ${obj.fim}`,
         obj.turno,
-        obj.roteiro
+        hora
       );
       result.push(pay);
     }
