@@ -46,9 +46,14 @@ function convertToTimestamp(dateString, turno, hora) {
 
   let digito = Number(dateString.substring(11, 13));
   let dia = Number(dateString.substring(0, 2));
+  let hora_digito = Number(hora.substring(11, 13));
 
-  if (turno === 2 && digito < 12 && hora >= 18) {
+  if (turno === 2 && digito < 12 && hora_digito >= 18) {
     dia = dia + 1;
+  }
+
+  if (turno === 2 && digito > 18 && hora_digito < digito) {
+    dia = dia - 1;
   }
 
   const str_dia = dia.toString().padStart(2, "0");
@@ -58,6 +63,25 @@ function convertToTimestamp(dateString, turno, hora) {
   let momentDate = moment.tz(dateString, format, "America/Sao_Paulo");
 
   return momentDate.valueOf(); // Retorna o timestamp em milissegundos
+}
+
+function testaDias(dias, hora, turno) {
+  let new_dias = null;
+  console.log(dias, hora, turno);
+  let hora_digito = Number(hora.substring(11, 13));
+  if (turno === 2 && hora_digito >= 0 && hora_digito <= 6) {
+    const d1 = dias[0];
+
+    if (d1 % 2 === 0) {
+      new_dias = dias.map((x) => x + 1);
+    } else {
+      new_dias = dias.map((x) => x - 1);
+    }
+  } else {
+    new_dias = dias;
+  }
+
+  return new_dias;
 }
 
 export async function getRoteiro(payloadModificado) {
@@ -77,10 +101,14 @@ export async function getRoteiro(payloadModificado) {
       pay.roteiro = obj.roteiro;
       pay.gerencia = obj.gerencia;
       pay.turno = obj.turno;
-      pay.dias = obj.dias
-        .toString()
-        .split(",")
-        .map((x) => Number(x));
+      pay.dias = testaDias(
+        obj.dias
+          .toString()
+          .split(",")
+          .map((x) => Number(x)),
+        hora,
+        obj.turno
+      );
       pay.inicio = obj.inicio;
       pay.fim = obj.fim;
       pay.inicio_timestamp = convertToTimestamp(
@@ -97,15 +125,14 @@ export async function getRoteiro(payloadModificado) {
     }
   }
 
-  const filter = result
-    .filter((x) => x.dias.includes(dia_da_semana))
-    .filter(
-      (t) => t.inicio_timestamp <= timestamp && t.fim_timestamp >= timestamp
-    );
+  const filter = result.filter(
+    (t) => t.inicio_timestamp <= timestamp && t.fim_timestamp >= timestamp
+  );
 
   for (let f of filter) {
     const data = {};
     data[f.prefixo] = f;
+    console.log(timestamp, data);
 
     const config = {
       url: "https://igor-e1982-default-rtdb.firebaseio.com/telemetria.json",

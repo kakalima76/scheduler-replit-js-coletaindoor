@@ -41,9 +41,16 @@ import { transformPayload, getRoteiro } from "./services.mjs";
           );
 
           if (index !== -1) {
-
-            const { data, latitude, longitude, prefixo, placa, dias, inicio_timestamp, fim_timestamp } =
-              telemetriaFiltrada[index];
+            const {
+              data,
+              latitude,
+              longitude,
+              prefixo,
+              placa,
+              dias,
+              inicio_timestamp,
+              fim_timestamp,
+            } = telemetriaFiltrada[index];
 
             c = {
               ...c,
@@ -54,11 +61,13 @@ import { transformPayload, getRoteiro } from "./services.mjs";
               placa: placa,
               dias,
               inicio_timestamp,
-              fim_timestamp
+              fim_timestamp,
             };
 
             const obj = {};
             obj[c.id] = c;
+
+            console.log(obj);
 
             const config = {
               method: "patch",
