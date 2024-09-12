@@ -42,7 +42,7 @@ import { transformPayload, getRoteiro } from "./services.mjs";
 
           if (index !== -1) {
 
-            const { data, latitude, longitude, prefixo, placa, dias } =
+            const { data, latitude, longitude, prefixo, placa, dias, inicio_timestamp, fim_timestamp } =
               telemetriaFiltrada[index];
 
             c = {
@@ -52,7 +52,9 @@ import { transformPayload, getRoteiro } from "./services.mjs";
               lng_veiculo: longitude,
               prefixo: prefixo,
               placa: placa,
-              dias
+              dias,
+              inicio_timestamp,
+              fim_timestamp
             };
 
             const obj = {};
